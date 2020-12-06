@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "96666384421",
+    "firebase_url": "https://otpfirebaseproject-41384.firebaseio.com",
+    "project_id": "otpfirebaseproject-41384",
+    "storage_bucket": "otpfirebaseproject-41384.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96666384421:android:1b24cba7f9f13933faa7cc",
+        "android_client_info": {
+          "package_name": "com.neeraj.otp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96666384421-qet1rm25kc8puuccqjfcefco9d94nsj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.neeraj.otp",
+            "certificate_hash": "75ae4fb712c53ddd1e1ca10efccb4e7074a91523"
+          }
+        },
+        {
+          "client_id": "96666384421-kfeecsmbrl1grmu49de358cjtmjk5ir1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASWWcvhzYccv0GeY6A9sEJePw2VxZ04v8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96666384421-kfeecsmbrl1grmu49de358cjtmjk5ir1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
